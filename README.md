@@ -1,2 +1,3 @@
-# Python-Password-Generator
-Generates one time password
+# Password Generator
+Modules to install:
+>>>Pyperclip
